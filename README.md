@@ -11,7 +11,7 @@ Welcome to my professional certifications, workshops, and academic milestones.
 | Certificate Name | Organization | Date | View |
 | :--- | :--- | :--- | :--- |
 | **Divisional Science Olympiad 2023** | Bangladesh Academy of Sciences | Jan 2023 | [View](./Academic/BAS-FSIBL_Divisional_Science_Olympiad_2023.png) |
-| **Computer Office Application (360 Hrs)** | BTEB | Sep 2021 | [View](./Academic/Computer_Office_Application_Training_Certificate.jpg) |
+| **Computer Office Application (360 Hrs)** | BTEB | Sep 2021 | [View](./Academic/Computer_Office_Application_Training_Certificate.png) |
 | **Foundation Grammar and Writing** | Mentors' | Jun 2024 | [View](./Academic/Foundation_Grammar_and_Writing_Mentors.jpg) |
 
 ---
